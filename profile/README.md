@@ -25,6 +25,14 @@ share the same modeling engine, making repeatable operations scriptable.
 - [voxelbrew.dev](https://voxelbrew.dev) — project website and product overview
 - [BOM](https://github.com/Voxel-Brew/BOM) — dependency and API version alignment
 
+## Visit voxelbrew.dev
+
+[voxelbrew.dev](https://voxelbrew.dev) is the best place for a visual tour of
+VoxelBrew. Explore the Designer and Slicer through genuine application
+screenshots, see how the connected design-to-print workflow works, and download
+the editable bearing-mount `.vxb` demo to try in the application. The site also
+links directly to the source, build guide, documentation, and issue tracker.
+
 The desktop workflow targets Windows and Ubuntu Linux. macOS Intel CLI support
 is available; macOS GUI qualification remains deferred. VoxelBrew works with
 local design files and does not require a cloud account for modeling.
